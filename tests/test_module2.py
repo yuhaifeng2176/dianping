@@ -1,5 +1,5 @@
 import unittest
-from project_name.module2 import another_function
+from crawler.module2 import another_function
 
 class TestModule2(unittest.TestCase):
 

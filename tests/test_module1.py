@@ -1,5 +1,5 @@
 import unittest
-from project_name.module1 import some_function
+from crawler.spider import some_function
 
 class TestModule1(unittest.TestCase):
 

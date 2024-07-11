@@ -1,7 +1,5 @@
 
 ### 4. `requirements.txt`
-```plaintext
-# 项目依赖的第三方库
 flask
 requests
 numpy

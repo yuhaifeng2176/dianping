@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="project_name",
+    name="crawler",
     version="0.1.0",
     packages=find_packages(),
     install_requires=[
@@ -12,7 +12,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "project_name=project_name.main:main",
+            "crawler=crawler.main:main",
         ],
     },
     author="你的名字",
